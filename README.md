@@ -1,6 +1,10 @@
-# Food Commerce GPT
+# Robo Delivery Chatbot
+
+Usei o projeto inicial do Dev Samurai [Food Commerce GPT](https://github.com/DevSamurai/food-gpt) para desenvolver o meu.
 
 Bot de atendimento para o Food Commerce utilizando modelo GPT da OpenAI. Ele foi desenvolvido para o conteúdo da [Master Class #013](https://youtube.com/live/lCR7Ssw0v-k) da [Dev Samurai](https://devsamurai.com.br).
+
+README criada pelo Dev Samurai
 
 ## Como funciona?
 
